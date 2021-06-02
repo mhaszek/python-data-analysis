@@ -149,3 +149,8 @@ To run the examples locally save the chosen folder and run the `main.py` Python 
 
 # Used Tools
  * Python
+
+
+#
+
+### Contact: mil.haszek@gmail.com
